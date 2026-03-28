@@ -51,7 +51,7 @@ Modern ecommerce web application built with **Next.js + React + TailwindCSS**
 https://github.com/pouyanfarsara/Nest-Shop
 
 🌐 Live Demo
-https://nest-shop.vercel.app
+[https://nest-shop.vercel.app](https://nest-shop-iota.vercel.app/)
 
 ---
 
